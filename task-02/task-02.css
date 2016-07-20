@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+div #container {
+	width: 100%;
+}
+header{
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 1%;
+	width: 90%;
+	height: 1em;
+	background-color: #000080;
+}
+aside{
+	display: inline-block;
+	margin-left: 5%;
+	margin-bottom: 1%;
+	float: left;
+	width: 24%;
+	height: 10em;
+	background-color:  #810081;
+}
+#main-content{
+	display: block;
+	margin-right: 5%;
+	margin-bottom: 1%;
+	float: right;
+	width: 65%;
+	height: 10em;
+	background-color: #007f01;
+}
+footer{	
+	display: inline-block;
+	margin-left: 5%;
+	background-color: #0200ff;
+	width: 90%;
+	height: 1em;
+
+}
